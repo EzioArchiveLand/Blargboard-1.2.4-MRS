@@ -68,31 +68,31 @@ Depending on the versions, your update may involve running extra scripts to fix 
 Updating from Blargboard 1.0 and mrs 1.2.1-1.2.2 isn't covered.
 
 To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
-*/index.php
-*/install.php
-*/lib/bbcode_callbacks.php
-*/lib/bbcode_parser.php
-*/lib/common.php
-*/lib/syndromes.php
-*/lib/permstrings.php
-*/pages/register.php
-*/pages/404.php
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/nuke.php
-*/pages/reregs.php
-*/instameme (the whole folder. put in the root of your board)
-*/pages/irc.php
-*/menus.php
-*/pages/profile.php
-*/js/tricks.js
-*/ranksets/mario (whole folder)
-*/kurichallenge.php
+ * /index.php
+ * /install.php
+ * /lib/bbcode_callbacks.php
+ * /lib/bbcode_parser.php
+ * /lib/common.php
+ * /lib/syndromes.php
+ * /lib/permstrings.php
+ * /pages/register.php
+ * /pages/404.php
+ * /pages/newreply.php
+ * /pages/newthread.php
+ * /pages/nuke.php
+ * /pages/reregs.php
+ * /instameme (the whole folder. put in the root of your board)
+ * /pages/irc.php
+ * /menus.php
+ * /pages/profile.php
+ * /js/tricks.js
+ * /ranksets/mario (whole folder)
+ * /kurichallenge.php
 
 to update from blargboard 1.2.3, drag these files
-*/lib/common.php
-*/ranksets/mario (whole folder)
-*/kurichallenge.php
+ * /lib/common.php
+ * /ranksets/mario (whole folder)
+ * /kurichallenge.php
 
 ## Features
 
@@ -104,14 +104,9 @@ to update from blargboard 1.2.3, drag these files
  * more Acmlmboard feel
  * typical messageboard features
  
-## New Features in Blargboard 1.2.3 MRS
+## New Features in Blargboard 1.2.4 MRS
 
- * Fixed syndromes
- * Fixed spelling in newreply.php and newthread.php
- * 4 new instamemes (wrote the new code and found maorninja did it first. sorry man)
- * added a button for instameme on the reply box
- * fixed up reregs.php
- * fixed user nuke link in profile.php
+ * Fixed rankset images not animating
  
 -------------------------------------------------------------------------------
 
