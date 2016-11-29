@@ -65,7 +65,7 @@ Once that is done, run update.php (http://my.board.for.example/update.php) to up
 Depending on the versions, your update may involve running extra scripts to fix certain things. Make sure to follow those instructions.
 
 
-Updating from Blargboard 1.0 isn't covered.
+Updating from Blargboard 1.0 and mrs 1.2.1-1.2.2 isn't covered.
 
 To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
 */index.php
@@ -86,16 +86,13 @@ To update from Blargboard 1.2, just drag and drop the new files into your instal
 */menus.php
 */pages/profile.php
 */js/tricks.js
+*/ranksets/mario (whole folder)
+*/kurichallenge.php
 
-to update from blargboard 1.2.2, drag these files
+to update from blargboard 1.2.3, drag these files
 */lib/common.php
-*/lib/syndromes
-*/lib/bbcode_callbacks.php
-*/js/tricks.js
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/profile.php
-*/instameme (the whole folder. put it in the root of your board)
+*/ranksets/mario (whole folder)
+*/kurichallenge.php
 
 ## Features
 
@@ -183,7 +180,7 @@ YOU WILL NOT RECEIVE HELP IF YOU HAVEN'T READ THE INSTRUCTIONS WHEN INSTALLING Y
  * low priority: change/remove file headers? most of the original files still say 'AcmlmBoard XD'
  * besides it'd be an opportunity to add a license like the GPL
  * Add more stuff
- * make blargboard 1.2.3 MRS
+ * make blargboard 1.2.5 MRS
  * finish up intergrated hall of shame
 -------------------------------------------------------------------------------
 
